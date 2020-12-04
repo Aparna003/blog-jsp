@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>  
+  
+<servlet>  
+<servlet-name>pdt1</servlet-name>  
+<servlet-class>product</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>pdt1</servlet-name>  
+<url-pattern>/searching</url-pattern>  
+</servlet-mapping>  
+  
+</web-app>  
